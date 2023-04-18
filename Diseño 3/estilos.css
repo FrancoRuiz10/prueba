@@ -13,3 +13,9 @@ h1{
     height: 60px;
     overflow: auto;
 }
+header{
+    background-color: blue;
+}
+p{
+    font-family: cursive;
+}
