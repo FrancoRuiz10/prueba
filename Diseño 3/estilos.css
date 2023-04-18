@@ -9,4 +9,7 @@ h1{
    border-color: black;
     padding: 60px;
     margin: 9px;
+    width: 60px;
+    height: 60px;
+    overflow: auto;
 }
