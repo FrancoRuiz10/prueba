@@ -1,0 +1,57 @@
+*{
+    margin 0;
+    padding: 0;
+}
+.divflex{
+    background-color: rgb(182, 121, 240);
+    display: flex;
+    flex-wrap: wrap-reverse ;
+}
+.uno{
+    background-color: blueviolet;
+    width: 50%;
+    height: 200px; 
+    margin: 5px;
+}
+.dos{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px; 
+    margin: 5px;
+}
+.tres{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    margin: 5px; 
+}
+.cuatro{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px; 
+    margin: 5px;
+}
+.cinco{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px; 
+    margin: 5px;
+}
+.seis{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px; 
+    margin: 5px;
+}
+.siete{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px; 
+    margin: 5px;
+}
+.ocho{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px; 
+    margin: 5px;
+}
