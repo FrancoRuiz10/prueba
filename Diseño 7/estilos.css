@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.caja1{
+    background-color: blue;
+    width: 50px;
+    height: 30px;
+    border: 50px;
+    margin: 40px;
+    padding: 40px;
+}
+.caja2{
+    background-color: red;
+    width: 20px;
+    height: 50px;
+    border: 60px;
+    margin: 20px;
+    padding: 40px;
+}
+.caja3{
+    background-color: aqua;
+    width: 60px;
+    height: 20px;
+    border: 20px;
+    margin: 10px;
+    padding: 60px;
+}
+.caja4{
+    background-color: yellow;
+    width: 10px;
+    height: 80px;
+    border: 20px;
+    margin: 60px;
+    padding: 70px;
+}
+.caja5{
+    background-color: aquamarine;
+    width: 30px;
+    height: 10px;
+    border: 20px;
+    margin: 50px;
+    padding: 40px;
+}
+
