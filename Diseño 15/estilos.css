@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+h2{
+    background-color: aquamarine;
+    color: blue;
+}
+h2:hover{
+    background-color: black;
+    color: aquamarine;
+}
+a:visited{
+    color: green;
+    text-decoration: 90px;
+}
+.activo:active{
+    background-color: blueviolet;
+}
+ul li{
+    background-color: brown;
+}
+li:first-child{
+    background-color: bisque;
+}
+li:last-child{
+    background-color: blueviolet;
+}
+li:nth-child(even){
+    background-color: beige ;
+}
+div{
+    width: 500px;
+    height: 500px;
+    background: linear-gradient(green,black, blue);
+}
