@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+li{
+    background-color: blueviolet;
+    padding: 9px;
+}
+li a{
+    color: cornsilk;
+    font-size: 20px;
+    text-decoration: none; /*con esto puedo sacar el linea de las listas */
+}
+a:hover{
+    background-color: violet;
+}
+.activo{
+    background-color: rosybrown;
+    font-size: 20px;
+    color: black;
+}
