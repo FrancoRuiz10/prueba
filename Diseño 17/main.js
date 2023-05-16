@@ -21,6 +21,7 @@ function saludar(){
     alert("Hola a todos");
 }
 
+
 let nombre=prompt("Ingrese su nombre y apellido");
 let cursos=prompt("Ingrese el numero de curso");
 while (cursos != 58){
